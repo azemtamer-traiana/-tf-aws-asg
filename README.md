@@ -1,2 +1,2 @@
-# -tf-aws-asg
+# tf-aws-asg
 Terraform AWS Auto Scaling group
